@@ -1,0 +1,4 @@
+flet==0.4.0
+requests==2.30.0
+urllib3==1.26.15
+python-dotenv==1.0.0

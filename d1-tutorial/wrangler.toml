@@ -1,0 +1,8 @@
+name = "d1-tutorial"
+main = "src/index.ts"
+compatibility_date = "2023-06-16"
+
+[[d1_databases]]
+binding = "MY_SAMPLE_DB" # i.e. available in your Worker on env.DB
+database_name = "sample-d1"
+database_id = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
